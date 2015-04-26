@@ -1,4 +1,6 @@
 'use strict';
 
-var BaseComponent = new this.Component();
+var BaseComponent = new (require('meanbossio').Component)();
+
+// var BaseComponent = new Component;
 BaseComponent.register();
