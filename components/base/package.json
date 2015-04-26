@@ -1,0 +1,13 @@
+{
+  "name": "meanboss-base",
+  "version": "0.0.1",
+  "description": "The base package for MeanBoss",
+  "main": "app.js",
+  "author": "Cody B. Daig",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "meanbossDependencies": {
+    "meanbossio": "0.0.1"
+  }
+}
